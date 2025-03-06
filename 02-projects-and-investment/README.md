@@ -21,14 +21,14 @@ Este documento explora o processo de criar documentos abrangentes que delineiam 
 ### [03. Financiamento Público](03-public-funding.md)
 Este documento examina os mecanismos de apoio financeiro governamental, incluindo subvenções, incentivos fiscais, empréstimos subsidiados e programas de co-investimento disponíveis em diferentes níveis de governo. Inclui melhores práticas para acessar financiamento público, estudos de caso de programas bem-sucedidos e diretrizes para desenvolver propostas competitivas.
 
-### [04. Financiamento Bancário](04-banking-finance.md) - Em desenvolvimento
-Este documento descreverá os mecanismos de financiamento bancário tradicional e suas adaptações para diferentes tipos de empreendimentos, incluindo linhas de crédito, empréstimos comerciais, financiamento de ativos e garantias bancárias.
+### [04. Financiamento Bancário](04-banking-finance.md)
+Este documento descreve os mecanismos de financiamento bancário tradicional e suas adaptações para diferentes tipos de empreendimentos, incluindo linhas de crédito, empréstimos comerciais, financiamento de ativos e garantias bancárias. Apresenta melhores práticas para estabelecer relacionamentos bancários, preparar documentação para solicitações de crédito e gerenciar obrigações financeiras.
 
-### [05. Investimento Privado](05-private-investment.md) - Em desenvolvimento
-Este documento explorará as várias formas de investimento privado, desde capital semente e investidores anjo até capital de risco, private equity e financiamento corporativo estratégico, com foco nas expectativas dos investidores e estruturas de negociação.
+### [05. Investimento Privado](05-private-investment.md)
+Este documento explora as várias formas de investimento privado, desde capital semente e investidores anjo até capital de risco, private equity e financiamento corporativo estratégico. Aborda estratégias para atrair investidores, negociar termos favoráveis, gerenciar expectativas de desempenho e estruturar acordos de investimento que equilibrem crescimento e controle.
 
-### [06. Suporte a Candidaturas](06-application-support.md) - Em desenvolvimento
-Este documento fornecerá orientações sobre o processo de candidatura a diversas fontes de financiamento, incluindo preparação documental, apresentação eficaz, negociação de termos e gestão de relacionamento com financiadores.
+### [06. Suporte a Candidaturas](06-application-support.md)
+Este documento fornece orientações sobre o processo de candidatura a diversas fontes de financiamento, incluindo preparação documental, apresentação eficaz, negociação de termos e gestão de relacionamento com financiadores. Inclui melhores práticas para desenvolver candidaturas competitivas, responder a requisitos específicos de diferentes tipos de financiadores e gerenciar o processo pós-aprovação.
 
 ## Integração com o Ecossistema Easynet Pro
 
