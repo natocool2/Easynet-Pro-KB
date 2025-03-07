@@ -7,8 +7,7 @@ Esta seção da Knowledge Base do Ecossistema Easynet Pro fornece informações 
 1. [Registro de Empresas](./01-company-registration.md)
 2. [Licenciamento](./02-licensing.md)
 3. [Registro de Marcas e Patentes](./03-trademark-patent-registration.md)
-4. [Processamento de Documentos](./04-document-processing.md)
-5. Orientação Legal
+4. Orientação Legal
    * [Parte 1](./05-legal-guidance-part1.md)
    * [Parte 2](./05-legal-guidance-part2.md)
 
@@ -38,12 +37,11 @@ Cada documento nesta seção segue uma estrutura consistente:
 
 ## Status de Desenvolvimento
 
-Esta seção foi completamente desenvolvida, abrangendo os cinco principais aspectos do suporte legal necessários para empreendedores e empresas:
+Esta seção foi completamente desenvolvida, abrangendo os principais aspectos do suporte legal necessários para empreendedores e empresas:
 
 - ✅ Registro de Empresas
 - ✅ Licenciamento
 - ✅ Registro de Marcas e Patentes
-- ✅ Processamento de Documentos
 - ✅ Orientação Legal
 
 O conteúdo foi criado com base em pesquisas extensivas sobre as melhores práticas globais e exemplos de empresas bem-sucedidas, garantindo informações relevantes, atualizadas e práticas para os usuários do Ecossistema Easynet Pro.
