@@ -73,13 +73,13 @@ The Knowledge Base development is being carried out in phases according to the [
 
 ### In Progress:
 
-- **Technological Development** section with 4 completed documents and more in development:
+- **Technological Development** section with 5 completed documents and more in development:
   - Web Platforms (Completed)
   - Landing Pages (Completed)
   - Websites (Completed)
   - Blogs (Completed)
-  - Marketplaces and Digital Stores (Next priority)
-  - Training Platforms
+  - Marketplaces and Digital Stores (Completed)
+  - Training Platforms (Next priority)
   - Classified Platforms
   - Mobile and Web Applications
   - Billing and Payment Systems
@@ -132,8 +132,8 @@ Each knowledge base document follows a consistent structure:
 
 As of March 2025, we have completed:
 - 4 of 8 main sections (50%): Business Intelligence, Projects and Investment, Legal Support, and Marketing and Communication
-- Started development of the Technological Development section with 4 of 16 documents completed
-- 27 of 69 planned detailed documents (39.1%)
+- Started development of the Technological Development section with 5 of 16 documents completed
+- 28 of 69 planned detailed documents (40.6%)
 
 The project is progressing on schedule according to our 16-week development roadmap, with significant progress in establishing a solid foundation for the Easynet Pro Ecosystem knowledge base.
 
