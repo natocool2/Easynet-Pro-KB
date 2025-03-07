@@ -29,15 +29,15 @@ This knowledge base provides comprehensive information on the Easynet Pro Ecosys
 - [3.4 Document Processing](03-legal-support/04-document-processing.md)
 - [3.5 Legal Guidance Part 1](03-legal-support/05-legal-guidance-part1.md) and [Part 2](03-legal-support/05-legal-guidance-part2.md)
 
-### 4. Marketing and Communication (🔄 IN PROGRESS)
+### 4. Marketing and Communication (✅ COMPLETED)
 - [4.1 Digital Marketing](04-marketing-and-communication/01-digital-marketing.md)
 - [4.2 Advertising Campaigns](04-marketing-and-communication/02-advertising-campaigns.md)
 - [4.3 Content Creation](04-marketing-and-communication/03-content-creation.md)
-- [4.4 Company and Product Videos](04-marketing-and-communication/04-company-product-videos.md)
+- [4.4 Presentation Videos](04-marketing-and-communication/04-presentation-videos.md)
 - [4.5 Promotional Videos](04-marketing-and-communication/05-promotional-videos.md)
 - [4.6 Brand Development](04-marketing-and-communication/06-brand-development.md)
 
-### 5. Technological Development
+### 5. Technological Development (🔄 IN PROGRESS)
 - [5.1 Web Platforms](05-technological-development/01-web-platforms.md)
 - [5.2 Landing Pages](05-technological-development/02-landing-pages.md)
 - [5.3 Websites](05-technological-development/03-websites.md)
@@ -102,14 +102,14 @@ This knowledge base provides comprehensive information on the Easynet Pro Ecosys
 | 1. Business Intelligence | ✅ Completed | 6 | 6 |
 | 2. Projects and Investment | ✅ Completed | 6 | 6 |
 | 3. Legal Support | ✅ Completed | 5 | 5 |
-| 4. Marketing and Communication | 🔄 In Progress | 0 | 6 |
-| 5. Technological Development | 📝 Planned | 0 | 16 |
+| 4. Marketing and Communication | ✅ Completed | 6 | 6 |
+| 5. Technological Development | 🔄 In Progress | 0 | 16 |
 | 6. Events and Networking | 📝 Planned | 0 | 5 |
 | 7. Marketplace and Market | 📝 Planned | 0 | 5 |
 | 8. Education and Training | 📝 Planned | 0 | 4 |
 | 9. Market Sectors | 📝 Planned | 0 | 12 |
 | 10. Initiatives | 📝 Planned | 0 | 4 |
-| **TOTAL** | **24.6% Complete** | **17** | **69** |
+| **TOTAL** | **33.3% Complete** | **23** | **69** |
 
 ## Usage Guide
 
