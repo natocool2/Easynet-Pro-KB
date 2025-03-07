@@ -29,3 +29,35 @@ O desenvolvimento de marca engloba o processo estratégico de criar, posicionar 
   - Sustentabilidade e responsabilidade como core values
   - Branding humanizado e conversacional
   - Marcas como plataformas de comunidade
+
+## Fundamentos do Desenvolvimento de Marca
+
+### Elementos Estratégicos da Marca
+
+1. **Brand Purpose**
+   - Razão de existência além do lucro
+   - Impact vision e contribuição social
+   - Diferenciação baseada em "porquê"
+   - Alinhamento com tendências culturais
+   - Autenticidade e consistência de propósito
+
+2. **Brand Positioning**
+   - Espaço cognitivo único na mente do público
+   - Diferenciação competitiva clara
+   - Relevância para audiência-alvo
+   - Sustentabilidade do posicionamento ao longo do tempo
+   - Metodologias: Brand positioning canvas, perceptual mapping
+
+3. **Brand Identity**
+   - Arquitetura de identidade de marca
+   - Personalidade e valores da marca
+   - Voz e tom de comunicação
+   - Promessa de marca (brand promise)
+   - Narrativa central (core story)
+
+4. **Brand Architecture**
+   - Estrutura de relacionamento entre marcas
+   - Modelos: monolítico, endorsed, house of brands, híbrido
+   - Hierarquia de marcas e sub-marcas
+   - Estratégia de naming e endorsed relationships
+   - Guidelines para expansões e extensões
