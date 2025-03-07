@@ -42,10 +42,10 @@ This knowledge base provides comprehensive information on the Easynet Pro Ecosys
 - [5.2 Landing Pages](05-technological-development/02-landing-pages.md) ✅
 - [5.3 Websites](05-technological-development/03-websites.md) ✅
 - [5.4 Blogs](05-technological-development/04-blogs.md) ✅
-- [5.5 Marketplaces and Digital Stores](05-technological-development/05-marketplaces-digital-stores.md) 🔄
-- [5.6 Training Platforms](05-technological-development/06-training-platforms.md)
-- [5.7 Classified Platforms](05-technological-development/07-classified-platforms.md)
-- [5.8 Mobile and Web Applications](05-technological-development/08-mobile-web-applications.md)
+- [5.5 Marketplaces and Digital Stores](05-technological-development/05-marketplaces-digital-stores.md) ✅
+- [5.6 Training Platforms](05-technological-development/06-training-platforms.md) ✅
+- [5.7 Classified Platforms](05-technological-development/07-classified-platforms.md) ✅
+- [5.8 Mobile and Web Applications](05-technological-development/08-mobile-web-applications.md) 🔄
 - [5.9 Billing and Payment Systems](05-technological-development/09-billing-payment-systems.md)
 - [5.10 Email Systems](05-technological-development/10-email-systems.md)
 - [5.11 CRM and ERP Systems](05-technological-development/11-crm-erp-systems.md)
@@ -103,13 +103,13 @@ This knowledge base provides comprehensive information on the Easynet Pro Ecosys
 | 2. Projects and Investment | ✅ Completed | 6 | 6 |
 | 3. Legal Support | ✅ Completed | 5 | 5 |
 | 4. Marketing and Communication | ✅ Completed | 6 | 6 |
-| 5. Technological Development | 🔄 In Progress | 4 | 16 |
+| 5. Technological Development | 🔄 In Progress | 7 | 16 |
 | 6. Events and Networking | 📝 Planned | 0 | 5 |
 | 7. Marketplace and Market | 📝 Planned | 0 | 5 |
 | 8. Education and Training | 📝 Planned | 0 | 4 |
 | 9. Market Sectors | 📝 Planned | 0 | 12 |
 | 10. Initiatives | 📝 Planned | 0 | 4 |
-| **TOTAL** | **39.1% Complete** | **27** | **69** |
+| **TOTAL** | **43.5% Complete** | **30** | **69** |
 
 ## Usage Guide
 
