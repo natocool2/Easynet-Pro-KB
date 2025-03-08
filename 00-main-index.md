@@ -82,8 +82,8 @@ This knowledge base provides comprehensive information on the Easynet Pro Ecosys
 - [9.4 Travel and Tourism](09-market-sectors/04-travel-tourism.md) ✅
 - [9.5 Management and Administration](09-market-sectors/05-management-administration.md) ✅
 - [9.6 Finance](09-market-sectors/06-finance.md) ✅
-- [9.7 Training](09-market-sectors/07-training.md) 📝
-- [9.8 Events](09-market-sectors/08-events.md) 📝
+- [9.7 Training](09-market-sectors/07-training.md) ✅
+- [9.8 Events](09-market-sectors/08-events.md) ✅
 - [9.9 Health](09-market-sectors/09-health.md) 📝
 - [9.10 Aesthetics](09-market-sectors/10-aesthetics.md) 📝
 - [9.11 Transportation](09-market-sectors/11-transportation.md) 📝
@@ -107,9 +107,9 @@ This knowledge base provides comprehensive information on the Easynet Pro Ecosys
 | 6. Events and Networking | ✅ Completed | 5 | 5 |
 | 7. Marketplace and Market | ✅ Completed | 5 | 5 |
 | 8. Education and Training | ✅ Completed | 4 | 4 |
-| 9. Market Sectors | 🔄 In Progress | 6 | 12 |
+| 9. Market Sectors | 🔄 In Progress | 8 | 12 |
 | 10. Initiatives | 📝 Planned | 0 | 4 |
-| **TOTAL** | **85.5% Complete** | **59** | **69** |
+| **TOTAL** | **88.4% Complete** | **61** | **69** |
 
 ## Usage Guide
 
