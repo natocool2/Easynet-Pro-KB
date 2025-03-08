@@ -58,7 +58,7 @@ This knowledge base provides comprehensive information on the Easynet Pro Ecosys
 ### 6. Events and Networking (🔄 IN PROGRESS)
 - [6.1 Event Planning](06-events-and-networking/01-event-planning.md) ✅
 - [6.2 Conference Management](06-events-and-networking/02-conference-management.md) ✅
-- [6.3 Networking Strategies](06-events-and-networking/03-networking-strategies.md)
+- [6.3 Networking Strategies](06-events-and-networking/03-networking-strategies.md) ✅
 - [6.4 Community Building](06-events-and-networking/04-community-building.md)
 - [6.5 Strategic Partnerships](06-events-and-networking/05-strategic-partnerships.md)
 
@@ -104,12 +104,12 @@ This knowledge base provides comprehensive information on the Easynet Pro Ecosys
 | 3. Legal Support | ✅ Completed | 5 | 5 |
 | 4. Marketing and Communication | ✅ Completed | 6 | 6 |
 | 5. Technological Development | ✅ Completed | 16 | 16 |
-| 6. Events and Networking | 🔄 In Progress | 2 | 5 |
+| 6. Events and Networking | 🔄 In Progress | 3 | 5 |
 | 7. Marketplace and Market | 📝 Planned | 0 | 5 |
 | 8. Education and Training | 📝 Planned | 0 | 4 |
 | 9. Market Sectors | 📝 Planned | 0 | 12 |
 | 10. Initiatives | 📝 Planned | 0 | 4 |
-| **TOTAL** | **60.9% Complete** | **41** | **69** |
+| **TOTAL** | **63.8% Complete** | **42** | **69** |
 
 ## Usage Guide
 
